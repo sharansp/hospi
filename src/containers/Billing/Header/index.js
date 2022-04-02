@@ -21,7 +21,7 @@ export const BillingHeader = () => {
                 }}
             >
                 <AddBoxOutlinedIcon style={{ color: '#04ADBE' }} />
-                <label variant="contained" disableElevation>
+                <label variant="contained" >
                     Prescribe Medication
                 </label>
             </Box>
